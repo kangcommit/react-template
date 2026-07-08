@@ -22,7 +22,7 @@
 					"fix": "safe",
 					"options": {
 						"attributes": ["classList"],
-						"functions": ["clsx", "cva", "tw", "tw.*"]
+						"functions": ["clsx", "cva", "tv", "tw", "tw.*"]
 					}
 				}
 			}
