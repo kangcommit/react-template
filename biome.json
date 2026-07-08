@@ -25,6 +25,9 @@
 						"functions": ["clsx", "cva", "tv", "tw", "tw.*"]
 					}
 				}
+			},
+			"a11y": {
+				"noSvgWithoutTitle": "off"
 			}
 		}
 	},
